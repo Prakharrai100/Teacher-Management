@@ -1,0 +1,4 @@
+com\example\teachercrud\TeachercrudApplication.class
+com\example\teachercrud\controller\TeacherController.class
+com\example\teachercrud\entity\Teacher.class
+com\example\teachercrud\repository\TeacherRepository.class
